@@ -1,0 +1,33 @@
+.round-squares2{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 25px;
+  background-color: white;
+  width: 75%;
+  height: 75%;
+  text-align: center;
+}
+
+.footer{
+  background-color: white; padding-bottom: 20px; bottom: 0; position: fixed; width: 100%;
+  text-align: center;
+}
+
+.round-squares h2{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.round-squares2{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 25px;
+  background-color: white;
+  width: 75%;
+  height: fit-content;
+  text-align: center;
+  color: black;
+}
