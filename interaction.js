@@ -18,5 +18,13 @@ function teleportation5(){
     window.open( "Subject.html","_blank");
 }
 
+function teleportation6(){
+    window.open( "personality.html","_blank");
+}
+
+function teleportation7(){
+    window.open( "reflection.html","_blank");
+}
+
 
 
